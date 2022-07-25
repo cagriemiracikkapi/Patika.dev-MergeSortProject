@@ -48,7 +48,7 @@ Ve her adımda n defa işlem yapılmaktadır.
 
 Sonuç olarak Big-O gösterimi şöyledir:
 
-o(nlogn)
+O(nlogn)
 
 
 
